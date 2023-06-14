@@ -1,4 +1,15 @@
-#### Hi there 👋
+## Hi there, I am Deepak 👋
+
+### 👨🏻‍💻 About Me
+*	👨🏻‍🎓  I am a final year Computer Science student.
+*	📖  Quick learner and Easily adopt new environment.
+*	👷🏻‍♂️  Ready to work in any environment.
+
+### ⚒️ Technical Skills
+*	💻   Python , Java , C , C++
+*	🌐    HTML5 , CSS3 , JavaScript
+*	🛢️   MySql
+*	🔧   Visual studio Code
 
 <!--
 **IamXDeepak/IamXDeepak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
