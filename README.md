@@ -4,10 +4,11 @@
 *	👨🏻‍🎓  I am a final year Computer Science student.
 *	📖  Quick learner and Easily adopt new environment.
 *	👷🏻‍♂️  Ready to work in any environment.
+*	🛜  Interest to work in the field of frontend development.
 
 ### ⚒️ Technical Skills
 *	💻   Python , Java , C , C++
-*	🌐    HTML5 , CSS3 , JavaScript
+*	🌐    HTML5 , CSS3 , JavaScript , React
 *	🛢️   MySql
 *	🔧   Visual studio Code
 
@@ -18,6 +19,7 @@
 ### 🤝 Contact Me
 * 📱  9788938920
 * ✉️  [Email](mailto:deepaks8404@gmail.com)
+
 
 <!--
 **IamXDeepak/IamXDeepak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
