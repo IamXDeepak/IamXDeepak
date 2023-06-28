@@ -7,10 +7,21 @@
 *	🛜  Interest to work in the field of frontend development.
 
 ### ⚒️ Technical Skills
-*	💻   Python , Java , C , C++
-*	🌐    HTML5 , CSS3 , JavaScript , React
-*	🛢️   MySql
-*	🔧   Visual studio Code
+*	💻
+ ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+ ![C programming](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+ ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++)
+ ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+*	🌐
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+	![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+ 	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+*	🛢️
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+*	🔧
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+ 	
 
 ### 🎭 social profiles
 * [Linkedin](https://www.linkedin.com/in/deepak-s-115595226/)
